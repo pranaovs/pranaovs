@@ -34,9 +34,9 @@
 
   <a href = "https://discord.com/users/1125592394092519526">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://lanyard.cnrad.dev/api/1125592394092519526?theme=dark&showDisplayName=true&hideBadges=true&animated=true&borderRadius=4.5px&idleMessage=idiling&20efficiently...">
-      <source media="(prefers-color-scheme: light)" srcset="https://lanyard.cnrad.dev/api/1125592394092519526?theme=light&bg=ffffff&showDisplayName=true&hideBadges=true&animated=true&borderRadius=4.5px&idleMessage=idiling%20efficiently...">
-      <img  width="390" align="top" src="https://lanyard.cnrad.dev/api/1125592394092519526?theme=light&bg=ffffff&showDisplayName=true&hideBadges=true&animated=true&borderRadius=4.5px&idleMessage=idiling%20efficiently..." alt="Discord Rich Presence">
+      <source media="(prefers-color-scheme: dark)" srcset="https://lanyard.cnrad.dev/api/1125592394092519526?theme=dark&showDisplayName=true&hideBadges=true&animated=true&borderRadius=4.5px&idleMessage=idiling%20lazily...">
+      <source media="(prefers-color-scheme: light)" srcset="https://lanyard.cnrad.dev/api/1125592394092519526?theme=light&bg=ffffff&showDisplayName=true&hideBadges=true&animated=true&borderRadius=4.5px&idleMessage=idiling%20lazily...">
+      <img  width="390" align="top" src="https://lanyard.cnrad.dev/api/1125592394092519526?theme=light&bg=ffffff&showDisplayName=true&hideBadges=true&animated=true&borderRadius=4.5px&idleMessage=idiling%20lazily..." alt="Discord Rich Presence">
     </picture>
   </a>&nbsp;
 
