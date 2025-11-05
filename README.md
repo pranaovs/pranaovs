@@ -193,11 +193,19 @@ View additional statistics in <a href=<https://github.com/pranaovs/pranaovs/blob
     </picture>
   </a>
 
-  <a href = "https://t.me/pranaovs">
+  <a href="mailto:contact.spdjjghrvgtl@pranaovs.me">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Telegram-%40pranaovs-24a1de?logo=telegram&labelColor=grey">
-      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Telegram-%40pranaovs-24a1de?logo=telegram&labelColor=ffffff">
-      <img src="https://img.shields.io/badge/Telegram-%40pranaovs-24a1de?logo=telegram&labelColor=ffffff" alt="Telegram - @pranaovs">
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Email-contact.spdjjghrvgtl@pranaovs.me-orange?labelColor=grey&color=orange&logo=protonmail">
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Email-contact.spdjjghrvgtl@pranaovs.me-orange?labelColor=ffffff&color=orange&logo=protonmail">
+      <img src="https://img.shields.io/badge/Email-contact.spdjjghrvgtl@pranaovs.me-orange?color=orange&labelColor=ffffff&logo=protonmail" alt="Email - contact.spdjjghrvgtl@pranaovs.me">
+    </picture>
+  </a>
+
+  <a href = "https://www.instagram.com/pranaovs">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Instagram-%40pranaovs-deeppink?logo=instagram&labelColor=grey">
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Instagram-%40pranaovs-deeppink?logo=instagram&labelColor=ffffff">
+      <img src="https://img.shields.io/badge/Instagram-%40pranaovs-deeppink?logo=instagram&labelColor=ffffff" alt="Instagram - @pranaovs">
     </picture>
   </a>
 
@@ -209,19 +217,11 @@ View additional statistics in <a href=<https://github.com/pranaovs/pranaovs/blob
     </picture>
   </a>
 
-  <a href = "mailto:contact.spdjjghrvgtl@pranaovs.me">
+  <a href = "https://t.me/pranaovs">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Email-contact.spdjjghrvgtl@pranaovs.me-5865f2&labelColor=grey?logo=data:image/svg%2bxml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48IS0tIFVwbG9hZGVkIHRvOiBTVkcgUmVwbywgd3d3LnN2Z3JlcG8uY29tLCBHZW5lcmF0b3I6IFNWRyBSZXBvIE1peGVyIFRvb2xzIC0tPgo8c3ZnIHdpZHRoPSI4MDBweCIgaGVpZ2h0PSI4MDBweCIgdmlld0JveD0iMCAwIDEwMjQgMTAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICAgPGNpcmNsZSBjeD0iNTEyIiBjeT0iNTEyIiByPSI1MTIiIHN0eWxlPSJmaWxsOiM2NTczZmYiLz4KICAgPHBhdGggZD0iTTcyNCAzNzQuOXYtMzQuN2MwLTIyLjItMTgtNDAuMi00MC4yLTQwLjJIMzQwLjJjLTIyLjIgMC00MC4yIDE4LTQwLjIgNDAuMlYzNzRjMTUuNyAxNS4zIDE2Mi4zIDE1NCAyMTIuNyAxNTQgNTMuNiAwIDE5NC43LTEzNi45IDIxMS4zLTE1My4xem0tNzUuNCAxMjYuMmMtNTcuOCA1Mi4yLTEwMy42IDc4LjYtMTM1LjkgNzguNi03My4xIDAtMTk3LTExMC41LTIxMi43LTEyNS4zdjIyOS4zYzAgMjIuMiAxOCA0MC4yIDQwLjIgNDAuMmgzNDMuNWMyMi4yIDAgNDAuMi0xOCA0MC4yLTQwLjJWNDI0LjhjLTcuMyA4LjQtMzcuOCA0Mi42LTc1LjMgNzYuM3oiIHN0eWxlPSJmaWxsOiNmZmYiLz4KPC9zdmc+">
-      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Email-contact.spdjjghrvgtl@pranaovs.me-5865f2?labelColor=ffffff&logo=data:image/svg%2bxml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48IS0tIFVwbG9hZGVkIHRvOiBTVkcgUmVwbywgd3d3LnN2Z3JlcG8uY29tLCBHZW5lcmF0b3I6IFNWRyBSZXBvIE1peGVyIFRvb2xzIC0tPgo8c3ZnIHdpZHRoPSI4MDBweCIgaGVpZ2h0PSI4MDBweCIgdmlld0JveD0iMCAwIDEwMjQgMTAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICAgPGNpcmNsZSBjeD0iNTEyIiBjeT0iNTEyIiByPSI1MTIiIHN0eWxlPSJmaWxsOiM2NTczZmYiLz4KICAgPHBhdGggZD0iTTcyNCAzNzQuOXYtMzQuN2MwLTIyLjItMTgtNDAuMi00MC4yLTQwLjJIMzQwLjJjLTIyLjIgMC00MC4yIDE4LTQwLjIgNDAuMlYzNzRjMTUuNyAxNS4zIDE2Mi4zIDE1NCAyMTIuNyAxNTQgNTMuNiAwIDE5NC43LTEzNi45IDIxMS4zLTE1My4xem0tNzUuNCAxMjYuMmMtNTcuOCA1Mi4yLTEwMy42IDc4LjYtMTM1LjkgNzguNi03My4xIDAtMTk3LTExMC41LTIxMi43LTEyNS4zdjIyOS4zYzAgMjIuMiAxOCA0MC4yIDQwLjIgNDAuMmgzNDMuNWMyMi4yIDAgNDAuMi0xOCA0MC4yLTQwLjJWNDI0LjhjLTcuMyA4LjQtMzcuOCA0Mi42LTc1LjMgNzYuM3oiIHN0eWxlPSJmaWxsOiNmZmYiLz4KPC9zdmc+">
-      <img src="https://img.shields.io/badge/Email-contact.spdjjghrvgtl@pranaovs.me-5865f2?labelColor=ffffff&logo=data:image/svg%2bxml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48IS0tIFVwbG9hZGVkIHRvOiBTVkcgUmVwbywgd3d3LnN2Z3JlcG8uY29tLCBHZW5lcmF0b3I6IFNWRyBSZXBvIE1peGVyIFRvb2xzIC0tPgo8c3ZnIHdpZHRoPSI4MDBweCIgaGVpZ2h0PSI4MDBweCIgdmlld0JveD0iMCAwIDEwMjQgMTAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICAgPGNpcmNsZSBjeD0iNTEyIiBjeT0iNTEyIiByPSI1MTIiIHN0eWxlPSJmaWxsOiM2NTczZmYiLz4KICAgPHBhdGggZD0iTTcyNCAzNzQuOXYtMzQuN2MwLTIyLjItMTgtNDAuMi00MC4yLTQwLjJIMzQwLjJjLTIyLjIgMC00MC4yIDE4LTQwLjIgNDAuMlYzNzRjMTUuNyAxNS4zIDE2Mi4zIDE1NCAyMTIuNyAxNTQgNTMuNiAwIDE5NC43LTEzNi45IDIxMS4zLTE1My4xem0tNzUuNCAxMjYuMmMtNTcuOCA1Mi4yLTEwMy42IDc4LjYtMTM1LjkgNzguNi03My4xIDAtMTk3LTExMC41LTIxMi43LTEyNS4zdjIyOS4zYzAgMjIuMiAxOCA0MC4yIDQwLjIgNDAuMmgzNDMuNWMyMi4yIDAgNDAuMi0xOCA0MC4yLTQwLjJWNDI0LjhjLTcuMyA4LjQtMzcuOCA0Mi42LTc1LjMgNzYuM3oiIHN0eWxlPSJmaWxsOiNmZmYiLz4KPC9zdmc+" alt="Email - contact.spdjjghrvgtl@pranaovs.me">
-    </picture>
-  </a>
-
-  <a href = "https://www.instagram.com/pranaovs">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Instagram-%40pranaovs-deeppink?logo=instagram&labelColor=grey">
-      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Instagram-%40pranaovs-deeppink?logo=instagram&labelColor=ffffff">
-      <img src="https://img.shields.io/badge/Instagram-%40pranaovs-deeppink?logo=instagram&labelColor=ffffff" alt="Instagram - @pranaovs">
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Telegram-%40pranaovs-24a1de?logo=telegram&labelColor=grey">
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Telegram-%40pranaovs-24a1de?logo=telegram&labelColor=ffffff">
+      <img src="https://img.shields.io/badge/Telegram-%40pranaovs-24a1de?logo=telegram&labelColor=ffffff" alt="Telegram - @pranaovs">
     </picture>
   </a>
 
