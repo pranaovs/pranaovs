@@ -94,9 +94,18 @@ View additional statistics in <a href=<https://github.com/pranaovs/pranaovs/blob
       <img src="https://skillicons.dev/icons?i=arduino&theme=light" alt="Arduino">
     </picture>
   </a>
+
+  <a href = "https://www.gnu.org/software/bash">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=bash&theme=dark">
+      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=bash&theme=light">
+      <img src="https://skillicons.dev/icons?i=bash&theme=light" alt="Bash">
+    </picture>
+  </a>
+
 </p>
 
-## Half Knowledge
+## Messing around with
 
 <p>
   <a href = "https://www.linux.org">
@@ -107,26 +116,6 @@ View additional statistics in <a href=<https://github.com/pranaovs/pranaovs/blob
     </picture>
   </a>
 
-  <a href = "https://www.gnu.org/software/bash">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=bash&theme=dark">
-      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=bash&theme=light">
-      <img src="https://skillicons.dev/icons?i=bash&theme=light" alt="Bash">
-    </picture>
-  </a>
-
-  <a href = "https://kotlinlang.org/">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=kotlin&theme=dark">
-      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=kotlin&theme=light">
-      <img src="https://skillicons.dev/icons?i=kotlin&theme=light" alt="Kotlin">
-    </picture>
-  </a>
-</p>
-
-## What I wanna explore
-
-<p>
   <a href = "https://go.dev">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=go&theme=dark">
@@ -134,6 +123,20 @@ View additional statistics in <a href=<https://github.com/pranaovs/pranaovs/blob
       <img src="https://skillicons.dev/icons?i=go&theme=light" alt="Go">
     </picture>
   </a>
+
+  <a href = "https://www.postgresql.org">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgresql&theme=dark">
+      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=postgresql&theme=light">
+      <img src="https://skillicons.dev/icons?i=postgresql&theme=light" alt="PostgreSQL">
+    </picture>
+  </a>
+
+</p>
+
+## What I wanna explore
+
+<p>
 
   <a href = "https://www.rust-lang.org">
     <picture>
@@ -166,6 +169,23 @@ View additional statistics in <a href=<https://github.com/pranaovs/pranaovs/blob
       <img src="https://skillicons.dev/icons?i=flask&theme=light" alt="Flask">
     </picture>
   </a>
+
+  <a href = "https://kotlinlang.org/">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=kotlin&theme=dark">
+      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=kotlin&theme=light">
+      <img src="https://skillicons.dev/icons?i=kotlin&theme=light" alt="Kotlin">
+    </picture>
+  </a>
+
+  <a href = "https://flutter.dev">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=flutter&theme=dark">
+      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=flutter&theme=light">
+      <img src="https://skillicons.dev/icons?i=flutter&theme=light" alt="Flutter">
+    </picture>
+  </a>
+
 </p>
 
 ## Socials
