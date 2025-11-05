@@ -1,0 +1,109 @@
+# Acknowledgements
+
+The cool charts and badges in [README.md](https://github.com/pranaovs/pranaovs/blob/main/README.md) and [STATS.md](https://github.com/pranaovs/pranaovs/blob/main/STATS.md) would not have been possible without projects by the community.
+
+<br>
+
+# [README.md](https://github.com/pranaovs/pranaovs/blob/main/README.md)
+
+## [Header Buttons](https://github.com/pranaovs/pranaovs/blob/main/README.md#hello--i-am-pranaovs)
+
+1. Stars Badge:<br>
+[Shields.io](https://shields.io) - <https://shields.io/badges/git-hub-users-stars>
+
+2. Followers Badge:<br>
+[Shields.io](https://shields.io) - <https://shields.io/badges/git-hub-followers>
+
+3. Profile Views Badge:<br>
+[Anton Komarev](https://github.com/antonkomarev) - <https://github.com/antonkomarev/github-profile-views-counter>
+
+4. WakaTime Badge:<br>
+[WakaTime](https://wakatime.com) - <https://github.com/alanhamlett/alanhamlett/blob/main/README.md>
+
+## GitHub Stats Card
+
+* [Anurag Hazra](https://github.com/anuraghazra) - <https://github.com/anuraghazra/github-readme-stats>
+
+## WakaTime Stats Card
+
+* [Anurag Hazra](https://github.com/anuraghazra) - <https://github.com/anuraghazra/github-readme-stats>
+
+## Discord Rich Presence Card
+
+* [Conrad Crawford](https://github.com/cnrad) - <https://github.com/cnrad/lanyard-profile-readme>
+
+## Last.fm Recently Played Card
+
+* [JeffreyCA](https://github.com/JeffreyCA) - <https://github.com/JeffreyCA/lastfm-recently-played-readme>
+
+## Recent GitHub Activity List
+
+* [James George](https://github.com/jamesgeorge007) - <https://github.com/jamesgeorge007/github-activity-readme>
+
+## [Skills Icons](https://github.com/pranaovs/pranaovs/blob/main/README.md#my-skills)
+
+* [Thijs](https://github.com/tandpfun/) - <https://github.com/tandpfun/skill-icons>
+
+## [Socials Icons](https://github.com/pranaovs/pranaovs/blob/main/README.md#socials)
+
+* [Dheeresh Agarwal](https://github.com/dheereshagrwal) - <https://github.com/dheereshagrwal/colored-icons>
+
+## Contact me buttons
+
+1. Discord, Telegram, Instagram and Reddit Button:<br>
+[Shields.io](https://shields.io) - <https://shields.io/badges>
+
+2. Twitter Button:<br>
+[Shields.io](https://shields.io) - <https://shields.io/badges/x-formerly-twitter-follow>
+
+## [GnuPG Badge](https://github.com/pranaovs/pranaovs/blob/main/README.md#notice)
+
+* [Shields.io](https://shields.io) - <https://shields.io/badges>
+
+<br>
+
+# [STATS.md](https://github.com/pranaovs/pranaovs/blob/main/STATS.md)
+
+## [Lifetime GitHub Stats Card](https://github.com/pranaovs/pranaovs/blob/main/STATS.md#lifetime-github-stats)
+
+* [Anurag Hazra](https://github.com/anuraghazra) - <https://github.com/anuraghazra/github-readme-stats>
+
+## [Most Used Languages Card](https://github.com/pranaovs/pranaovs/blob/main/STATS.md#most-used-languages)
+
+* [Anurag Hazra](https://github.com/anuraghazra) - <https://github.com/anuraghazra/github-readme-stats>
+
+## [WakaTime Stats Card](https://github.com/pranaovs/pranaovs/blob/main/STATS.md#wakatime-stats)
+
+* [Anurag Hazra](https://github.com/anuraghazra) - <https://github.com/anuraghazra/github-readme-stats>
+
+## [Total Contributions](https://github.com/pranaovs/pranaovs/blob/main/STATS.md#github-stats-card)
+
+1. Total Contributions Card:<br>
+[Jonah Lawrence](https://github.com/DenverCoder1) - <https://github.com/denvercoder1/github-readme-streak-stats>
+
+2. Recent GitHub Activity List:<br>
+[James George](https://github.com/jamesgeorge007) - <https://github.com/jamesgeorge007/github-activity-readme>
+
+## [GitHub Streak Card](https://github.com/pranaovs/pranaovs/blob/main/STATS.md#github-streak)
+
+* [Jonah Lawrence](https://github.com/DenverCoder1) - <https://github.com/denvercoder1/github-readme-streak-stats>
+
+## [GitHub Contribution Graph Card](https://github.com/pranaovs/pranaovs/blob/main/STATS.md#github-contribution-graph)
+
+1. [Last 30 Days Graph](https://github.com/pranaovs/pranaovs/blob/main/STATS.md#last-30-days)<br>
+[Ashutosh Dwivedi](https://github.com/Ashutosh00710) - <https://github.com/Ashutosh00710/github-readme-activity-graph>
+
+2. [Last 365 Days Graph](https://github.com/pranaovs/pranaovs/blob/main/STATS.md#last-365-days)<br>
+[Casper](https://github.com/vn7n24fzkq) - <https://github.com/vn7n24fzkq/github-profile-summary-cards>
+
+## [Discord Status Card](https://github.com/pranaovs/pranaovs/blob/main/STATS.md#discord-status)
+
+* [Conrad Crawford](https://github.com/cnrad) - <https://github.com/cnrad/lanyard-profile-readme>
+
+## [Last.fm Recently Played Card](https://github.com/pranaovs/pranaovs/blob/main/STATS.md#last.fm-recently-played)
+
+* [JeffreyCA](https://github.com/JeffreyCA) - <https://github.com/JeffreyCA/lastfm-recently-played-readme>
+
+## [Commit Distribution by Time Card](https://github.com/pranaovs/pranaovs/blob/main/STATS.md#commit-distribution-by-time)
+
+* [Casper](https://github.com/vn7n24fzkq) - <https://github.com/vn7n24fzkq/github-profile-summary-cardsaa>
