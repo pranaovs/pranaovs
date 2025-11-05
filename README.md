@@ -219,7 +219,7 @@ View additional statistics in <a href=<https://github.com/pranaovs/pranaovs/blob
 
   <a href = "https://www.instagram.com/pranaovs">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Instagram-%40pranaovs-deeppink?logo=instagram&labelColor=ffffff">
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Instagram-%40pranaovs-deeppink?logo=instagram&labelColor=grey">
       <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Instagram-%40pranaovs-deeppink?logo=instagram&labelColor=ffffff">
       <img src="https://img.shields.io/badge/Instagram-%40pranaovs-deeppink?logo=instagram&labelColor=ffffff" alt="Instagram - @pranaovs">
     </picture>
