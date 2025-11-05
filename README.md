@@ -1,4 +1,4 @@
-## Hey There 👋, I am [Pranaov S](https://github.com/pranaovs)
+## Hello 👋, I am [Pranaov S](https://github.com/pranaovs)
 
 <p>
   <img src="https://img.shields.io/github/stars/pranaovs?color=yellow&label=Stars&affiliations=OWNER" alt="Pranaov S GitHub User stars">
