@@ -142,7 +142,7 @@
 ## Last.fm Recently Played
 
 <p>
-  <a href = "https://discord.com/users/1125592394092519526">
+  <a>
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://lastfm-recently-played.vercel.app/api?user=reallastfmuser&width=390&count=5&bg_color=1a1c1f&loved=true&header_style=compact&loved_style=3">
       <source media="(prefers-color-scheme: light)" srcset="https://lastfm-recently-played.vercel.app/api?user=reallastfmuser&width=390&bg_color=1a1c1f&count=5&loved=true&header_style=compact&loved_style=3">
