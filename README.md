@@ -63,7 +63,7 @@
 
 </details>
 
-View additional statistics in <a href=<https://github.com/pranaovs/pranaovs/blob/main/STATS.md>STATS.md></a> file.
+View additional statistics in [STATS.md](https://github.com/pranaovs/pranaovs/blob/main/STATS.md) file.
 
 ## What (I hope) I know
 
