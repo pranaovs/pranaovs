@@ -54,11 +54,11 @@
   <summary>Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#174](https://github.com/RikkaApps/Sui/issues/174#issuecomment-3449658517) in [RikkaApps/Sui](https://github.com/RikkaApps/Sui)
-2. 🗣 Commented on [#174](https://github.com/RikkaApps/Sui/issues/174#issuecomment-3416360054) in [RikkaApps/Sui](https://github.com/RikkaApps/Sui)
-3. 🗣 Commented on [#5](https://github.com/aunchagaonkar/NetworkSwitch/issues/5#issuecomment-3416349130) in [aunchagaonkar/NetworkSwitch](https://github.com/aunchagaonkar/NetworkSwitch)
-4. 🗣 Commented on [#111](https://github.com/tris203/precognition.nvim/issues/111#issuecomment-3400818467) in [tris203/precognition.nvim](https://github.com/tris203/precognition.nvim)
-5. ❗ Opened issue [#111](https://github.com/tris203/precognition.nvim/issues/111) in [tris203/precognition.nvim](https://github.com/tris203/precognition.nvim)
+1. 💪 Opened PR [#11](undefined) in [pranaovs/shared-expenses-app](https://github.com/pranaovs/shared-expenses-app)
+2. 🗣 Commented on [#174](https://github.com/RikkaApps/Sui/issues/174#issuecomment-3449658517) in [RikkaApps/Sui](https://github.com/RikkaApps/Sui)
+3. 🗣 Commented on [#174](https://github.com/RikkaApps/Sui/issues/174#issuecomment-3416360054) in [RikkaApps/Sui](https://github.com/RikkaApps/Sui)
+4. 🗣 Commented on [#5](https://github.com/aunchagaonkar/NetworkSwitch/issues/5#issuecomment-3416349130) in [aunchagaonkar/NetworkSwitch](https://github.com/aunchagaonkar/NetworkSwitch)
+5. 🗣 Commented on [#111](https://github.com/tris203/precognition.nvim/issues/111#issuecomment-3400818467) in [tris203/precognition.nvim](https://github.com/tris203/precognition.nvim)
   <!--END_SECTION:activity-->
 
 </details>
