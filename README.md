@@ -54,11 +54,11 @@
   <summary>Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#15](https://github.com/chabad360/cockpit-docker/pull/15#issuecomment-3530250778) in [chabad360/cockpit-docker](https://github.com/chabad360/cockpit-docker)
-2. 🗣 Commented on [#15](https://github.com/chabad360/cockpit-docker/pull/15#issuecomment-3530243011) in [chabad360/cockpit-docker](https://github.com/chabad360/cockpit-docker)
-3. 💪 Opened PR [#15](undefined) in [chabad360/cockpit-docker](https://github.com/chabad360/cockpit-docker)
-4. 💪 Opened PR [#11](undefined) in [pranaovs/shared-expenses-app](https://github.com/pranaovs/shared-expenses-app)
-5. 🗣 Commented on [#174](https://github.com/RikkaApps/Sui/issues/174#issuecomment-3449658517) in [RikkaApps/Sui](https://github.com/RikkaApps/Sui)
+1. 💪 Opened PR [#12](undefined) in [pranaovs/shared-expenses-app](https://github.com/pranaovs/shared-expenses-app)
+2. ❌ Assigned PR [#11](undefined) in [pranaovs/shared-expenses-app](https://github.com/pranaovs/shared-expenses-app)
+3. 🗣 Commented on [#15](https://github.com/chabad360/cockpit-docker/pull/15#issuecomment-3530250778) in [chabad360/cockpit-docker](https://github.com/chabad360/cockpit-docker)
+4. 🗣 Commented on [#15](https://github.com/chabad360/cockpit-docker/pull/15#issuecomment-3530243011) in [chabad360/cockpit-docker](https://github.com/chabad360/cockpit-docker)
+5. 💪 Opened PR [#15](undefined) in [chabad360/cockpit-docker](https://github.com/chabad360/cockpit-docker)
   <!--END_SECTION:activity-->
 
 </details>
