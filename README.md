@@ -137,6 +137,13 @@ View additional statistics in [STATS.md](https://github.com/pranaovs/pranaovs/bl
     </picture>
   </a>
 
+  <a href = "https://www.docker.com">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker&theme=dark">
+      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=docker&theme=light">
+      <img src="https://skillicons.dev/icons?i=docker&theme=light" alt="Docker">
+    </picture>
+  </a>
 </p>
 
 ## What I wanna explore
