@@ -9,6 +9,8 @@
 
 - 💻 Coding as a hobby, for a job.
 
+- 󰒋 Self hosting enthusiast. Running various [services](https://github.com/pranaovs/containers) on my VPS.
+
 - 🔭 Currently working on [Shared Expenses App (name tentative)](https://github.com/pranaovs/shared-expenses-app)
 
 <p>
