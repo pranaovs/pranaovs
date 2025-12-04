@@ -69,8 +69,8 @@
   <summary>View Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/naveenchander30/gta4l-custom-kernel-compile/issues/1) in [naveenchander30/gta4l-custom-kernel-compile](https://github.com/naveenchander30/gta4l-custom-kernel-compile)
-2. 💪 Opened PR [#12](undefined) in [pranaovs/shared-expenses-app](https://github.com/pranaovs/shared-expenses-app)
+1. 💪 Opened PR [#732](undefined) in [Crustack/NotallyX](https://github.com/Crustack/NotallyX)
+2. ❗ Opened issue [#1](https://github.com/naveenchander30/gta4l-custom-kernel-compile/issues/1) in [naveenchander30/gta4l-custom-kernel-compile](https://github.com/naveenchander30/gta4l-custom-kernel-compile)
 3. ❌ Assigned PR [#11](undefined) in [pranaovs/shared-expenses-app](https://github.com/pranaovs/shared-expenses-app)
 4. 🗣 Commented on [#15](https://github.com/chabad360/cockpit-docker/pull/15#issuecomment-3530250778) in [chabad360/cockpit-docker](https://github.com/chabad360/cockpit-docker)
 5. 🗣 Commented on [#15](https://github.com/chabad360/cockpit-docker/pull/15#issuecomment-3530243011) in [chabad360/cockpit-docker](https://github.com/chabad360/cockpit-docker)
