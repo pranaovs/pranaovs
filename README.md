@@ -24,7 +24,7 @@
 
   <a href = "https://wakatime.com/@pranaovs">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.pranaovs.me/api/wakatime?username=pranaovs&custom_title=Wakapi.dev&card_width=390&theme=github_dark&custom_title=Pranaov&apos;s%20WakaTime%20Stats&layout=compact&display_format=percent&langs_count=10&hide_border=true">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.pranaovs.me/api/wakatime?username=pranaovs&card_width=390&theme=github_dark&custom_title=Pranaov&apos;s%20WakaTime%20Stats&layout=compact&display_format=percent&langs_count=10&hide_border=true">
       <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.pranaovs.me/api/wakatime?username=pranaovs&api_domain=wakapi.pranaovs.me&card_width=390&theme=vue&custom_title=Pranaov&apos;s%20WakaTime%20Stats&layout=compact&display_format=percent&langs_count=10&hide_border=true">
       <img align="top" width="390" src="https://github-readme-stats.pranaovs.me/api/wakatime?username=pranaovs&api_domain=wakapi.pranaovs.me&card_width=390&theme=vue&custom_title=Pranaov&apos;s%20WakaTime%20Stats&layout=compact&display_format=percent&langs_count=10&hide_border=true">
     </picture>
