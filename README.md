@@ -16,17 +16,17 @@
 <p>
   <a href = "https://github.com/pranaovs/pranaovs/blob/main/STATS.md">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=pranaovs&show_icons=true&theme=github_dark&bg_color=1a1c1f&hide_border=false&border_color=1a1c1f&rank_icon=default&card_width=381px&show=prs_merged,prs_merged_percentage">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=pranaovs&show_icons=true&theme=default&bg_color=ffffff&hide_border=false&border_color=ffffff&rank_icon=default&card_width=381px&show=prs_merged,prs_merged_percentage">
-      <img width="390"  align="top" src="https://github-readme-stats.vercel.app/api?username=pranaovs&card_width=390&show_icons=true&theme=default&bg_color=ffffff&hide_border=false&border_color=ffffff&rank_icon=default&card_width=381px&show=prs_merged,prs_merged_percentage" alt="GitHub Stats">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.pranaovs.me/api?username=pranaovs&show_icons=true&theme=github_dark&bg_color=1a1c1f&hide_border=false&border_color=1a1c1f&rank_icon=default&card_width=381px&show=prs_merged,prs_merged_percentage">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.pranaovs.me/api?username=pranaovs&show_icons=true&theme=default&bg_color=ffffff&hide_border=false&border_color=ffffff&rank_icon=default&card_width=381px&show=prs_merged,prs_merged_percentage">
+      <img width="390"  align="top" src="https://github-readme-stats.pranaovs.me/api?username=pranaovs&card_width=390&show_icons=true&theme=default&bg_color=ffffff&hide_border=false&border_color=ffffff&rank_icon=default&card_width=381px&show=prs_merged,prs_merged_percentage" alt="GitHub Stats">
     </picture>
   </a>&nbsp;
 
   <a href = "https://wakatime.com/@pranaovs">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=pranaovs&card_width=390&theme=github_dark&custom_title=Pranaov&apos;s%20WakaTime%20Stats&layout=compact&display_format=percent&langs_count=10&hide_border=true">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=pranaovs&card_width=390&theme=vue&custom_title=Pranaov&apos;s%20WakaTime%20Stats&layout=compact&display_format=percent&langs_count=10&hide_border=true">
-      <img align="top" width="390" src="https://github-readme-stats.vercel.app/api/wakatime?username=pranaovs&card_width=390&theme=vue&custom_title=Pranaov&apos;s%20WakaTime%20Stats&layout=compact&display_format=percent&langs_count=10&hide_border=true">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.pranaovs.me/api/wakatime?username=pranaovs&custom_title=Wakapi.dev&card_width=390&theme=github_dark&custom_title=Pranaov&apos;s%20WakaTime%20Stats&layout=compact&display_format=percent&langs_count=10&hide_border=true">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.pranaovs.me/api/wakatime?username=pranaovs&api_domain=wakapi.pranaovs.me&card_width=390&theme=vue&custom_title=Pranaov&apos;s%20WakaTime%20Stats&layout=compact&display_format=percent&langs_count=10&hide_border=true">
+      <img align="top" width="390" src="https://github-readme-stats.pranaovs.me/api/wakatime?username=pranaovs&api_domain=wakapi.pranaovs.me&card_width=390&theme=vue&custom_title=Pranaov&apos;s%20WakaTime%20Stats&layout=compact&display_format=percent&langs_count=10&hide_border=true">
     </picture>
   </a>
 
@@ -44,9 +44,9 @@
 
   <a>
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://lastfm-recently-played.vercel.app/api?user=reallastfmuser&width=390&count=3&bg_color=1a1c1f&loved=true&header_style=compact&loved_style=3">
-      <source media="(prefers-color-scheme: light)" srcset="https://lastfm-recently-played.vercel.app/api?user=reallastfmuser&width=390&bg_color=1a1c1f&count=3&loved=true&header_style=compact&loved_style=3">
-      <img  width="390" align="top" src="https://lastfm-recently-played.vercel.app/api?user=reallastfmuser&width=390&count=3&loved=true&header_style=compact&loved_style=3" alt="Last.fm recently played">
+      <source media="(prefers-color-scheme: dark)" srcset="https://lastfm-recently-played.pranaovs.me/api?user=reallastfmuser&width=390&count=3&bg_color=1a1c1f&loved=true&header_style=compact&loved_style=3">
+      <source media="(prefers-color-scheme: light)" srcset="https://lastfm-recently-played.pranaovs.me/api?user=reallastfmuser&width=390&bg_color=1a1c1f&count=3&loved=true&header_style=compact&loved_style=3">
+      <img  width="390" align="top" src="https://lastfm-recently-played.pranaovs.me/api?user=reallastfmuser&width=390&count=3&loved=true&header_style=compact&loved_style=3" alt="Last.fm recently played">
     </picture>
   </a>
 </p>
