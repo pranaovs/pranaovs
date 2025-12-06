@@ -227,11 +227,11 @@ View additional statistics in [STATS.md](https://github.com/pranaovs/pranaovs/bl
     </picture>
   </a>
 
-  <a href="mailto:contact.spdjjghrvgtl@pranaovs.me">
+  <a href="mailto:contact.readme@pranaovs.me">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Email-contact.spdjjghrvgtl@pranaovs.me-orange?labelColor=grey&color=orange&logo=protonmail">
-      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Email-contact.spdjjghrvgtl@pranaovs.me-orange?labelColor=ffffff&color=orange&logo=protonmail">
-      <img src="https://img.shields.io/badge/Email-contact.spdjjghrvgtl@pranaovs.me-orange?color=orange&labelColor=ffffff&logo=protonmail" alt="Email - contact.spdjjghrvgtl@pranaovs.me">
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Email-contact.readme@pranaovs.me-orange?labelColor=grey&color=orange&logo=protonmail">
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Email-contact.readme@pranaovs.me-orange?labelColor=ffffff&color=orange&logo=protonmail">
+      <img src="https://img.shields.io/badge/Email-contact.readme@pranaovs.me-orange?color=orange&labelColor=ffffff&logo=protonmail" alt="Email - contact.readme@pranaovs.me">
     </picture>
   </a>
 
