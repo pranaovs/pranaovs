@@ -69,14 +69,14 @@
   <summary>View Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#1](undefined) in [pranaovs/containers](https://github.com/pranaovs/containers)
-2. 💪 Opened PR [#1](undefined) in [pranaovs/containers](https://github.com/pranaovs/containers)
-3. ❌ Merged PR [#1](undefined) in [pranaovs/headnscale](https://github.com/pranaovs/headnscale)
-4. 💪 Opened PR [#1](undefined) in [pranaovs/headnscale](https://github.com/pranaovs/headnscale)
-5. ❌ Merged PR [#732](undefined) in [Crustack/NotallyX](https://github.com/Crustack/NotallyX)
-6. 💪 Opened PR [#732](undefined) in [Crustack/NotallyX](https://github.com/Crustack/NotallyX)
-7. 💪 Opened PR [#11](undefined) in [pranaovs/shared-expenses-app](https://github.com/pranaovs/shared-expenses-app)
-8. 🗣 Commented on [#174](https://github.com/RikkaApps/Sui/issues/174#issuecomment-3416360054) in [RikkaApps/Sui](https://github.com/RikkaApps/Sui)
+1. ❌ Merged PR [#2](undefined) in [pranaovs/containers](https://github.com/pranaovs/containers)
+2. 💪 Opened PR [#2](undefined) in [pranaovs/containers](https://github.com/pranaovs/containers)
+3. ❌ Merged PR [#1](undefined) in [pranaovs/containers](https://github.com/pranaovs/containers)
+4. 💪 Opened PR [#1](undefined) in [pranaovs/containers](https://github.com/pranaovs/containers)
+5. ❌ Merged PR [#1](undefined) in [pranaovs/headnscale](https://github.com/pranaovs/headnscale)
+6. 💪 Opened PR [#1](undefined) in [pranaovs/headnscale](https://github.com/pranaovs/headnscale)
+7. ❌ Merged PR [#732](undefined) in [Crustack/NotallyX](https://github.com/Crustack/NotallyX)
+8. 💪 Opened PR [#732](undefined) in [Crustack/NotallyX](https://github.com/Crustack/NotallyX)
 <!--END_SECTION:activity-->
 
 </details>
