@@ -56,11 +56,11 @@
   <summary>Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. ❌ Merged PR [#1](undefined) in [pranaovs/containers](https://github.com/pranaovs/containers)
-2. 💪 Opened PR [#1](undefined) in [pranaovs/containers](https://github.com/pranaovs/containers)
-3. ❌ Merged PR [#1](undefined) in [pranaovs/headnscale](https://github.com/pranaovs/headnscale)
-4. 💪 Opened PR [#1](undefined) in [pranaovs/headnscale](https://github.com/pranaovs/headnscale)
-5. ❌ Merged PR [#732](undefined) in [Crustack/NotallyX](https://github.com/Crustack/NotallyX)
+1. ❌ Merged PR [#2](undefined) in [pranaovs/containers](https://github.com/pranaovs/containers)
+2. 💪 Opened PR [#2](undefined) in [pranaovs/containers](https://github.com/pranaovs/containers)
+3. ❌ Merged PR [#1](undefined) in [pranaovs/containers](https://github.com/pranaovs/containers)
+4. 💪 Opened PR [#1](undefined) in [pranaovs/containers](https://github.com/pranaovs/containers)
+5. ❌ Merged PR [#1](undefined) in [pranaovs/headnscale](https://github.com/pranaovs/headnscale)
   <!--END_SECTION:activity-->
 
 </details>
