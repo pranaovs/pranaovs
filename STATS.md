@@ -69,14 +69,14 @@
   <summary>View Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#2](undefined) in [pranaovs/containers](https://github.com/pranaovs/containers)
-2. 💪 Opened PR [#2](undefined) in [pranaovs/containers](https://github.com/pranaovs/containers)
-3. ❌ Merged PR [#1](undefined) in [pranaovs/containers](https://github.com/pranaovs/containers)
-4. 💪 Opened PR [#1](undefined) in [pranaovs/containers](https://github.com/pranaovs/containers)
-5. ❌ Merged PR [#1](undefined) in [pranaovs/headnscale](https://github.com/pranaovs/headnscale)
-6. 💪 Opened PR [#1](undefined) in [pranaovs/headnscale](https://github.com/pranaovs/headnscale)
-7. ❌ Merged PR [#732](undefined) in [Crustack/NotallyX](https://github.com/Crustack/NotallyX)
-8. 💪 Opened PR [#732](undefined) in [Crustack/NotallyX](https://github.com/Crustack/NotallyX)
+1. ❗ Opened issue [#1](https://github.com/theperiperi/Recovering-ipad-Kid/issues/1) in [theperiperi/Recovering-ipad-Kid](https://github.com/theperiperi/Recovering-ipad-Kid)
+2. ❌ Merged PR [#2](undefined) in [pranaovs/containers](https://github.com/pranaovs/containers)
+3. 💪 Opened PR [#2](undefined) in [pranaovs/containers](https://github.com/pranaovs/containers)
+4. ❌ Merged PR [#1](undefined) in [pranaovs/containers](https://github.com/pranaovs/containers)
+5. 💪 Opened PR [#1](undefined) in [pranaovs/containers](https://github.com/pranaovs/containers)
+6. ❌ Merged PR [#1](undefined) in [pranaovs/headnscale](https://github.com/pranaovs/headnscale)
+7. 💪 Opened PR [#1](undefined) in [pranaovs/headnscale](https://github.com/pranaovs/headnscale)
+8. ❌ Merged PR [#732](undefined) in [Crustack/NotallyX](https://github.com/Crustack/NotallyX)
 <!--END_SECTION:activity-->
 
 </details>
