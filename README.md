@@ -67,7 +67,7 @@
 
 View additional statistics in [STATS.md](https://github.com/pranaovs/pranaovs/blob/main/STATS.md) file.
 
-## What (I hope) I know
+## Neck deep in
 
 <p>
   <a href = "https://www.python.org">
@@ -112,7 +112,7 @@ View additional statistics in [STATS.md](https://github.com/pranaovs/pranaovs/bl
 
 </p>
 
-## Messing around with
+## Dipping my toes
 
 <p>
   <a href = "https://www.linux.org">
@@ -148,7 +148,7 @@ View additional statistics in [STATS.md](https://github.com/pranaovs/pranaovs/bl
   </a>
 </p>
 
-## What I wanna explore
+## Eyeing from across the shore
 
 <p>
 
@@ -202,7 +202,7 @@ View additional statistics in [STATS.md](https://github.com/pranaovs/pranaovs/bl
 
 </p>
 
-## Socials
+## Echolocate me
 
 <p>
   <a href = https://www.instagram.com/pranaovs><img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/master/public/logos/social%20media/instagram/instagram.svg" width=46 alt="Instagram - @pranaovs"/></a>&nbsp;
@@ -216,7 +216,7 @@ View additional statistics in [STATS.md](https://github.com/pranaovs/pranaovs/bl
   <a href = https://t.me/pranaovs><img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/master/public/logos/social%20media/telegram/telegram2.svg" width=46 alt="Telegram - @pranaovs"/></a>&nbsp;
 </p>
 
-### 📫 Contact me
+### Send me your message in a bottle
 
 <p>
   <a href = "https://discord.com/users/1125592394092519526">
