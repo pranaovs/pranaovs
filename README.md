@@ -202,7 +202,7 @@ View additional statistics in [STATS.md](https://github.com/pranaovs/pranaovs/bl
 
 </p>
 
-## Echolocate me
+## Echolocations
 
 <p>
   <a href = https://www.instagram.com/pranaovs><img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/master/public/logos/social%20media/instagram/instagram.svg" width=46 alt="Instagram - @pranaovs"/></a>&nbsp;
