@@ -139,6 +139,14 @@ View additional statistics in [STATS.md](https://github.com/pranaovs/pranaovs/bl
     </picture>
   </a>
 
+  <a href = "https://dart.dev">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=dart&theme=dark">
+      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=dart&theme=light">
+      <img src="https://skillicons.dev/icons?i=dart&theme=light" alt="Dart">
+    </picture>
+  </a>
+
   <a href = "https://www.docker.com">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker&theme=dark">
