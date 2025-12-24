@@ -56,11 +56,11 @@
   <summary>Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#19967](https://github.com/tldr-pages/tldr/pull/19967#issuecomment-3659683995) in [tldr-pages/tldr](https://github.com/tldr-pages/tldr)
-2. ❗ Opened issue [#1](https://github.com/theperiperi/Recovering-ipad-Kid/issues/1) in [theperiperi/Recovering-ipad-Kid](https://github.com/theperiperi/Recovering-ipad-Kid)
-3. ❌ Merged PR [#2](undefined) in [pranaovs/containers](https://github.com/pranaovs/containers)
-4. 💪 Opened PR [#2](undefined) in [pranaovs/containers](https://github.com/pranaovs/containers)
-5. ❌ Merged PR [#1](undefined) in [pranaovs/containers](https://github.com/pranaovs/containers)
+1. ❌ Merged PR [#2](undefined) in [pranaovs/headnscale](https://github.com/pranaovs/headnscale)
+2. 💪 Opened PR [#2](undefined) in [pranaovs/headnscale](https://github.com/pranaovs/headnscale)
+3. 🗣 Commented on [#19967](https://github.com/tldr-pages/tldr/pull/19967#issuecomment-3659683995) in [tldr-pages/tldr](https://github.com/tldr-pages/tldr)
+4. ❗ Opened issue [#1](https://github.com/theperiperi/Recovering-ipad-Kid/issues/1) in [theperiperi/Recovering-ipad-Kid](https://github.com/theperiperi/Recovering-ipad-Kid)
+5. ❌ Merged PR [#2](undefined) in [pranaovs/containers](https://github.com/pranaovs/containers)
   <!--END_SECTION:activity-->
 
 </details>
