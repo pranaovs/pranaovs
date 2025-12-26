@@ -56,11 +56,11 @@
   <summary>Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](undefined) in [pranaovs/containers](https://github.com/pranaovs/containers)
-2. ❌ Merged PR [#2](undefined) in [pranaovs/headnscale](https://github.com/pranaovs/headnscale)
-3. 💪 Opened PR [#2](undefined) in [pranaovs/headnscale](https://github.com/pranaovs/headnscale)
-4. 🗣 Commented on [#19967](https://github.com/tldr-pages/tldr/pull/19967#issuecomment-3659683995) in [tldr-pages/tldr](https://github.com/tldr-pages/tldr)
-5. ❌ Merged PR [#2](undefined) in [pranaovs/containers](https://github.com/pranaovs/containers)
+1. ❌ Merged PR [#3](undefined) in [pranaovs/containers](https://github.com/pranaovs/containers)
+2. 💪 Opened PR [#3](undefined) in [pranaovs/containers](https://github.com/pranaovs/containers)
+3. ❌ Merged PR [#2](undefined) in [pranaovs/headnscale](https://github.com/pranaovs/headnscale)
+4. 💪 Opened PR [#2](undefined) in [pranaovs/headnscale](https://github.com/pranaovs/headnscale)
+5. 🗣 Commented on [#19967](https://github.com/tldr-pages/tldr/pull/19967#issuecomment-3659683995) in [tldr-pages/tldr](https://github.com/tldr-pages/tldr)
   <!--END_SECTION:activity-->
 
 </details>
