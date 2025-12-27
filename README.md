@@ -110,11 +110,6 @@ View additional statistics in [STATS.md](https://github.com/pranaovs/pranaovs/bl
     </picture>
   </a>
 
-</p>
-
-## Dipping my toes
-
-<p>
   <a href = "https://www.linux.org">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=linux&theme=dark">
@@ -123,6 +118,11 @@ View additional statistics in [STATS.md](https://github.com/pranaovs/pranaovs/bl
     </picture>
   </a>
 
+</p>
+
+## Dipping my toes
+
+<p>
   <a href = "https://go.dev">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=go&theme=dark">
