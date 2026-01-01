@@ -56,11 +56,11 @@
   <summary>Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7001](undefined) in [netblue30/firejail](https://github.com/netblue30/firejail)
-2. ❌ Merged PR [#3](undefined) in [pranaovs/containers](https://github.com/pranaovs/containers)
-3. 💪 Opened PR [#3](undefined) in [pranaovs/containers](https://github.com/pranaovs/containers)
-4. ❌ Merged PR [#2](undefined) in [pranaovs/headnscale](https://github.com/pranaovs/headnscale)
-5. 💪 Opened PR [#2](undefined) in [pranaovs/headnscale](https://github.com/pranaovs/headnscale)
+1. 💪 Opened PR [#7001](https://github.com/netblue30/firejail/pull/7001) in [netblue30/firejail](https://github.com/netblue30/firejail)
+2. 🎉 Merged PR [#3](https://github.com/pranaovs/containers/pull/3) in [pranaovs/containers](https://github.com/pranaovs/containers)
+3. 💪 Opened PR [#3](https://github.com/pranaovs/containers/pull/3) in [pranaovs/containers](https://github.com/pranaovs/containers)
+4. 🎉 Merged PR [#2](https://github.com/pranaovs/headnscale/pull/2) in [pranaovs/headnscale](https://github.com/pranaovs/headnscale)
+5. 💪 Opened PR [#2](https://github.com/pranaovs/headnscale/pull/2) in [pranaovs/headnscale](https://github.com/pranaovs/headnscale)
   <!--END_SECTION:activity-->
 
 </details>
