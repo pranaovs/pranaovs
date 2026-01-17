@@ -56,11 +56,11 @@
   <summary>Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/pranaovs/headnscale/pull/3) in [pranaovs/headnscale](https://github.com/pranaovs/headnscale)
-2. 💪 Opened PR [#3](https://github.com/pranaovs/headnscale/pull/3) in [pranaovs/headnscale](https://github.com/pranaovs/headnscale)
-3. 🗣 Commented on [#7001](https://github.com/netblue30/firejail/pull/7001#issuecomment-3706904171) in [netblue30/firejail](https://github.com/netblue30/firejail)
-4. 💪 Opened PR [#7001](https://github.com/netblue30/firejail/pull/7001) in [netblue30/firejail](https://github.com/netblue30/firejail)
-5. 🎉 Merged PR [#3](https://github.com/pranaovs/containers/pull/3) in [pranaovs/containers](https://github.com/pranaovs/containers)
+1. ❗ Opened issue [#139](https://github.com/deniz-blue/mcman/issues/139) in [deniz-blue/mcman](https://github.com/deniz-blue/mcman)
+2. 🎉 Merged PR [#3](https://github.com/pranaovs/headnscale/pull/3) in [pranaovs/headnscale](https://github.com/pranaovs/headnscale)
+3. 💪 Opened PR [#3](https://github.com/pranaovs/headnscale/pull/3) in [pranaovs/headnscale](https://github.com/pranaovs/headnscale)
+4. 🗣 Commented on [#7001](https://github.com/netblue30/firejail/pull/7001#issuecomment-3706904171) in [netblue30/firejail](https://github.com/netblue30/firejail)
+5. 💪 Opened PR [#7001](https://github.com/netblue30/firejail/pull/7001) in [netblue30/firejail](https://github.com/netblue30/firejail)
   <!--END_SECTION:activity-->
 
 </details>
