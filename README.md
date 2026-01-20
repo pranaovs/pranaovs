@@ -11,7 +11,7 @@
 
 - ☁️ Self hosting enthusiast. Running various [services](https://github.com/pranaovs/containers) on my VPS.
 
-- 🔭 Currently working on [Shared Expenses App (name tentative)](https://github.com/pranaovs/shared-expenses-app)
+- 🔭 Currently working on [Qashare](https://github.com/pranaovs/Qashare)
 
 <p>
   <a href = "https://github.com/pranaovs/pranaovs/blob/main/STATS.md">
