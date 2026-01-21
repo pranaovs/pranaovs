@@ -56,11 +56,11 @@
   <summary>Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/pranaovs/Qashare/pull/13) in [pranaovs/Qashare](https://github.com/pranaovs/Qashare)
-2. 🎉 Merged PR [#14](https://github.com/pranaovs/Qashare/pull/14) in [pranaovs/Qashare](https://github.com/pranaovs/Qashare)
-3. 💪 Opened PR [#14](https://github.com/pranaovs/Qashare/pull/14) in [pranaovs/Qashare](https://github.com/pranaovs/Qashare)
-4. 💪 Opened PR [#13](https://github.com/pranaovs/Qashare/pull/13) in [pranaovs/Qashare](https://github.com/pranaovs/Qashare)
-5. 💪 Opened PR [#140](https://github.com/deniz-blue/mcman/pull/140) in [deniz-blue/mcman](https://github.com/deniz-blue/mcman)
+1. 🗣 Commented on [#15](https://github.com/pranaovs/Qashare/pull/15#issuecomment-3775957564) in [pranaovs/Qashare](https://github.com/pranaovs/Qashare)
+2. 🎉 Merged PR [#13](https://github.com/pranaovs/Qashare/pull/13) in [pranaovs/Qashare](https://github.com/pranaovs/Qashare)
+3. 🎉 Merged PR [#14](https://github.com/pranaovs/Qashare/pull/14) in [pranaovs/Qashare](https://github.com/pranaovs/Qashare)
+4. 💪 Opened PR [#14](https://github.com/pranaovs/Qashare/pull/14) in [pranaovs/Qashare](https://github.com/pranaovs/Qashare)
+5. 💪 Opened PR [#13](https://github.com/pranaovs/Qashare/pull/13) in [pranaovs/Qashare](https://github.com/pranaovs/Qashare)
   <!--END_SECTION:activity-->
 
 </details>
