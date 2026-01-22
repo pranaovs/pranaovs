@@ -56,11 +56,11 @@
   <summary>Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#17](https://github.com/pranaovs/Qashare/pull/17#issuecomment-3777955021) in [pranaovs/Qashare](https://github.com/pranaovs/Qashare)
-2. 🗣 Commented on [#17](https://github.com/pranaovs/Qashare/pull/17#issuecomment-3776369166) in [pranaovs/Qashare](https://github.com/pranaovs/Qashare)
-3. 🗣 Commented on [#15](https://github.com/pranaovs/Qashare/pull/15#issuecomment-3775957564) in [pranaovs/Qashare](https://github.com/pranaovs/Qashare)
-4. 🎉 Merged PR [#13](https://github.com/pranaovs/Qashare/pull/13) in [pranaovs/Qashare](https://github.com/pranaovs/Qashare)
-5. 🎉 Merged PR [#14](https://github.com/pranaovs/Qashare/pull/14) in [pranaovs/Qashare](https://github.com/pranaovs/Qashare)
+1. 💪 Opened PR [#18](https://github.com/pranaovs/Qashare/pull/18) in [pranaovs/Qashare](https://github.com/pranaovs/Qashare)
+2. 🗣 Commented on [#17](https://github.com/pranaovs/Qashare/pull/17#issuecomment-3777955021) in [pranaovs/Qashare](https://github.com/pranaovs/Qashare)
+3. 🗣 Commented on [#17](https://github.com/pranaovs/Qashare/pull/17#issuecomment-3776369166) in [pranaovs/Qashare](https://github.com/pranaovs/Qashare)
+4. 🗣 Commented on [#15](https://github.com/pranaovs/Qashare/pull/15#issuecomment-3775957564) in [pranaovs/Qashare](https://github.com/pranaovs/Qashare)
+5. 🎉 Merged PR [#13](https://github.com/pranaovs/Qashare/pull/13) in [pranaovs/Qashare](https://github.com/pranaovs/Qashare)
   <!--END_SECTION:activity-->
 
 </details>
