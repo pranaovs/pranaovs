@@ -69,14 +69,14 @@
   <summary>View Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#31](https://github.com/pranaovs/Qashare/pull/31) in [pranaovs/Qashare](https://github.com/pranaovs/Qashare)
-2. ❌ Closed PR [#30](https://github.com/pranaovs/Qashare/pull/30) in [pranaovs/Qashare](https://github.com/pranaovs/Qashare)
-3. 🗣 Commented on [#29](https://github.com/pranaovs/Qashare/pull/29#issuecomment-3797213586) in [pranaovs/Qashare](https://github.com/pranaovs/Qashare)
-4. 💪 Opened PR [#30](https://github.com/pranaovs/Qashare/pull/30) in [pranaovs/Qashare](https://github.com/pranaovs/Qashare)
-5. ℹ️ Assigned PR [#29](https://github.com/pranaovs/Qashare/pull/29) in [pranaovs/Qashare](https://github.com/pranaovs/Qashare)
-6. ❌ Closed PR [#28](https://github.com/pranaovs/Qashare/pull/28) in [pranaovs/Qashare](https://github.com/pranaovs/Qashare)
-7. ℹ️ Assigned PR [#28](https://github.com/pranaovs/Qashare/pull/28) in [pranaovs/Qashare](https://github.com/pranaovs/Qashare)
-8. 💪 Opened PR [#28](https://github.com/pranaovs/Qashare/pull/28) in [pranaovs/Qashare](https://github.com/pranaovs/Qashare)
+1. ❌ Closed PR [#32](https://github.com/pranaovs/Qashare/pull/32) in [pranaovs/Qashare](https://github.com/pranaovs/Qashare)
+2. ❌ Closed PR [#31](https://github.com/pranaovs/Qashare/pull/31) in [pranaovs/Qashare](https://github.com/pranaovs/Qashare)
+3. 💪 Opened PR [#31](https://github.com/pranaovs/Qashare/pull/31) in [pranaovs/Qashare](https://github.com/pranaovs/Qashare)
+4. ❌ Closed PR [#30](https://github.com/pranaovs/Qashare/pull/30) in [pranaovs/Qashare](https://github.com/pranaovs/Qashare)
+5. 🗣 Commented on [#29](https://github.com/pranaovs/Qashare/pull/29#issuecomment-3797213586) in [pranaovs/Qashare](https://github.com/pranaovs/Qashare)
+6. 💪 Opened PR [#30](https://github.com/pranaovs/Qashare/pull/30) in [pranaovs/Qashare](https://github.com/pranaovs/Qashare)
+7. ℹ️ Assigned PR [#29](https://github.com/pranaovs/Qashare/pull/29) in [pranaovs/Qashare](https://github.com/pranaovs/Qashare)
+8. ❌ Closed PR [#28](https://github.com/pranaovs/Qashare/pull/28) in [pranaovs/Qashare](https://github.com/pranaovs/Qashare)
 <!--END_SECTION:activity-->
 
 </details>
