@@ -57,9 +57,9 @@
 <p>
   <a href = "https://github.com/pranaovs">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.pranaovs.me?user=pranaovs&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D&card_width=300&hide_current_streak=true&hide_longest_streak=true">
-      <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.pranaovs.me?user=pranaovs&theme=vue&date_format=j%20M%5B%20Y%5D&card_width=300&hide_current_streak=true&hide_longest_streak=true">
-      <img align="top" src="https://streak-stats.pranaovs.me?user=pranaovs&theme=vue&date_format=j%20M%5B%20Y%5D&card_width=300&hide_current_streak=true&hide_longest_streak=true">
+      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=pranaovs&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D&card_width=300&hide_current_streak=true&hide_longest_streak=true">
+      <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=pranaovs&theme=vue&date_format=j%20M%5B%20Y%5D&card_width=300&hide_current_streak=true&hide_longest_streak=true">
+      <img align="top" src="https://streak-stats.demolab.com?user=pranaovs&theme=vue&date_format=j%20M%5B%20Y%5D&card_width=300&hide_current_streak=true&hide_longest_streak=true">
     </picture>
   </a>
 </p>
@@ -86,17 +86,17 @@
 <p>
   <a href = "https://github.com/pranaovs">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.pranaovs.me?user=pranaovs&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D&hide_total_contributions=true&mode=daily&card_width=300">
-      <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.pranaovs.me?user=pranaovs&theme=vue&date_format=j%20M%5B%20Y%5D&hide_total_contributions=true&mode=daily&card_width=300">
-      <img align="top" src="https://streak-stats.pranaovs.me?user=pranaovs&theme=vue&date_format=j%20M%5B%20Y%5D&hide_total_contributions=true&mode=daily&card_width=300">
+      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=pranaovs&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D&hide_total_contributions=true&mode=daily&card_width=300">
+      <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=pranaovs&theme=vue&date_format=j%20M%5B%20Y%5D&hide_total_contributions=true&mode=daily&card_width=300">
+      <img align="top" src="https://streak-stats.demolab.com?user=pranaovs&theme=vue&date_format=j%20M%5B%20Y%5D&hide_total_contributions=true&mode=daily&card_width=300">
     </picture>
   </a>
 
   <a href = "https://github.com/pranaovs">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.pranaovs.me?user=pranaovs&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D&hide_total_contributions=true&mode=weekly&card_width=300">
-      <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.pranaovs.me?user=pranaovs&theme=vue&date_format=j%20M%5B%20Y%5D&hide_total_contributions=true&mode=weekly&card_width=300">
-      <img align="top" src="https://streak-stats.pranaovs.me?user=pranaovs&theme=vue&date_format=j%20M%5B%20Y%5D&hide_total_contributions=true&mode=weekly&card_width=300">
+      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=pranaovs&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D&hide_total_contributions=true&mode=weekly&card_width=300">
+      <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=pranaovs&theme=vue&date_format=j%20M%5B%20Y%5D&hide_total_contributions=true&mode=weekly&card_width=300">
+      <img align="top" src="https://streak-stats.demolab.com?user=pranaovs&theme=vue&date_format=j%20M%5B%20Y%5D&hide_total_contributions=true&mode=weekly&card_width=300">
     </picture>
   </a>
 </p>
