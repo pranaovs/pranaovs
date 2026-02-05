@@ -69,14 +69,14 @@
   <summary>View Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#46](https://github.com/pranaovs/Qashare/pull/46) in [pranaovs/Qashare](https://github.com/pranaovs/Qashare)
-2. ℹ️ Assigned PR [#46](https://github.com/pranaovs/Qashare/pull/46) in [pranaovs/Qashare](https://github.com/pranaovs/Qashare)
-3. 💪 Opened PR [#46](https://github.com/pranaovs/Qashare/pull/46) in [pranaovs/Qashare](https://github.com/pranaovs/Qashare)
-4. 🎉 Merged PR [#45](https://github.com/pranaovs/Qashare/pull/45) in [pranaovs/Qashare](https://github.com/pranaovs/Qashare)
-5. 🗣 Commented on [#45](https://github.com/pranaovs/Qashare/pull/45#issuecomment-3851144644) in [pranaovs/Qashare](https://github.com/pranaovs/Qashare)
-6. 💪 Opened PR [#45](https://github.com/pranaovs/Qashare/pull/45) in [pranaovs/Qashare](https://github.com/pranaovs/Qashare)
-7. ℹ️ Assigned PR [#42](https://github.com/pranaovs/Qashare/pull/42) in [pranaovs/Qashare](https://github.com/pranaovs/Qashare)
-8. 🗣 Commented on [#36](https://github.com/pranaovs/Qashare/pull/36#issuecomment-3811049485) in [pranaovs/Qashare](https://github.com/pranaovs/Qashare)
+1. 💪 Opened PR [#518](https://github.com/nvim-flutter/flutter-tools.nvim/pull/518) in [nvim-flutter/flutter-tools.nvim](https://github.com/nvim-flutter/flutter-tools.nvim)
+2. ❌ Closed PR [#46](https://github.com/pranaovs/Qashare/pull/46) in [pranaovs/Qashare](https://github.com/pranaovs/Qashare)
+3. ℹ️ Assigned PR [#46](https://github.com/pranaovs/Qashare/pull/46) in [pranaovs/Qashare](https://github.com/pranaovs/Qashare)
+4. 💪 Opened PR [#46](https://github.com/pranaovs/Qashare/pull/46) in [pranaovs/Qashare](https://github.com/pranaovs/Qashare)
+5. 🎉 Merged PR [#45](https://github.com/pranaovs/Qashare/pull/45) in [pranaovs/Qashare](https://github.com/pranaovs/Qashare)
+6. 🗣 Commented on [#45](https://github.com/pranaovs/Qashare/pull/45#issuecomment-3851144644) in [pranaovs/Qashare](https://github.com/pranaovs/Qashare)
+7. 💪 Opened PR [#45](https://github.com/pranaovs/Qashare/pull/45) in [pranaovs/Qashare](https://github.com/pranaovs/Qashare)
+8. ℹ️ Assigned PR [#42](https://github.com/pranaovs/Qashare/pull/42) in [pranaovs/Qashare](https://github.com/pranaovs/Qashare)
 <!--END_SECTION:activity-->
 
 </details>
