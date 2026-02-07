@@ -118,11 +118,6 @@ View additional statistics in [STATS.md](https://github.com/pranaovs/pranaovs/bl
     </picture>
   </a>
 
-</p>
-
-## Dipping my toes
-
-<p>
   <a href = "https://go.dev">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=go&theme=dark">
@@ -130,6 +125,11 @@ View additional statistics in [STATS.md](https://github.com/pranaovs/pranaovs/bl
       <img src="https://skillicons.dev/icons?i=go&theme=light" alt="Go">
     </picture>
   </a>
+</p>
+
+## Dipping my toes
+
+<p>
 
   <a href = "https://www.postgresql.org">
     <picture>
@@ -144,6 +144,14 @@ View additional statistics in [STATS.md](https://github.com/pranaovs/pranaovs/bl
       <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=dart&theme=dark">
       <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=dart&theme=light">
       <img src="https://skillicons.dev/icons?i=dart&theme=light" alt="Dart">
+    </picture>
+  </a>
+
+  <a href = "https://flutter.dev">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=flutter&theme=dark">
+      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=flutter&theme=light">
+      <img src="https://skillicons.dev/icons?i=flutter&theme=light" alt="Flutter">
     </picture>
   </a>
 
@@ -199,15 +207,6 @@ View additional statistics in [STATS.md](https://github.com/pranaovs/pranaovs/bl
       <img src="https://skillicons.dev/icons?i=kotlin&theme=light" alt="Kotlin">
     </picture>
   </a>
-
-  <a href = "https://flutter.dev">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=flutter&theme=dark">
-      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=flutter&theme=light">
-      <img src="https://skillicons.dev/icons?i=flutter&theme=light" alt="Flutter">
-    </picture>
-  </a>
-
 </p>
 
 ## Echolocations
