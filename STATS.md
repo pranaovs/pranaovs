@@ -69,14 +69,14 @@
   <summary>View Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#53](https://github.com/pranaovs/Qashare/pull/53) in [pranaovs/Qashare](https://github.com/pranaovs/Qashare)
-2. 💪 Opened PR [#53](https://github.com/pranaovs/Qashare/pull/53) in [pranaovs/Qashare](https://github.com/pranaovs/Qashare)
-3. ❌ Closed PR [#51](https://github.com/pranaovs/Qashare/pull/51) in [pranaovs/Qashare](https://github.com/pranaovs/Qashare)
-4. ℹ️ Assigned PR [#51](https://github.com/pranaovs/Qashare/pull/51) in [pranaovs/Qashare](https://github.com/pranaovs/Qashare)
-5. 💪 Opened PR [#51](https://github.com/pranaovs/Qashare/pull/51) in [pranaovs/Qashare](https://github.com/pranaovs/Qashare)
-6. ❌ Closed PR [#50](https://github.com/pranaovs/Qashare/pull/50) in [pranaovs/Qashare](https://github.com/pranaovs/Qashare)
-7. 💪 Opened PR [#50](https://github.com/pranaovs/Qashare/pull/50) in [pranaovs/Qashare](https://github.com/pranaovs/Qashare)
-8. ❌ Closed PR [#49](https://github.com/pranaovs/Qashare/pull/49) in [pranaovs/Qashare](https://github.com/pranaovs/Qashare)
+1. 🗣 Commented on [#52](https://github.com/pranaovs/Qashare/pull/52#issuecomment-3896057558) in [pranaovs/Qashare](https://github.com/pranaovs/Qashare)
+2. ❌ Closed PR [#53](https://github.com/pranaovs/Qashare/pull/53) in [pranaovs/Qashare](https://github.com/pranaovs/Qashare)
+3. 💪 Opened PR [#53](https://github.com/pranaovs/Qashare/pull/53) in [pranaovs/Qashare](https://github.com/pranaovs/Qashare)
+4. ❌ Closed PR [#51](https://github.com/pranaovs/Qashare/pull/51) in [pranaovs/Qashare](https://github.com/pranaovs/Qashare)
+5. ℹ️ Assigned PR [#51](https://github.com/pranaovs/Qashare/pull/51) in [pranaovs/Qashare](https://github.com/pranaovs/Qashare)
+6. 💪 Opened PR [#51](https://github.com/pranaovs/Qashare/pull/51) in [pranaovs/Qashare](https://github.com/pranaovs/Qashare)
+7. ❌ Closed PR [#50](https://github.com/pranaovs/Qashare/pull/50) in [pranaovs/Qashare](https://github.com/pranaovs/Qashare)
+8. 💪 Opened PR [#50](https://github.com/pranaovs/Qashare/pull/50) in [pranaovs/Qashare](https://github.com/pranaovs/Qashare)
 <!--END_SECTION:activity-->
 
 </details>
