@@ -69,14 +69,14 @@
   <summary>View Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#58](https://github.com/pranaovs/Qashare/pull/58) in [pranaovs/Qashare](https://github.com/pranaovs/Qashare)
-2. 💪 Opened PR [#58](https://github.com/pranaovs/Qashare/pull/58) in [pranaovs/Qashare](https://github.com/pranaovs/Qashare)
-3. ❌ Closed PR [#57](https://github.com/pranaovs/Qashare/pull/57) in [pranaovs/Qashare](https://github.com/pranaovs/Qashare)
-4. 💪 Opened PR [#57](https://github.com/pranaovs/Qashare/pull/57) in [pranaovs/Qashare](https://github.com/pranaovs/Qashare)
-5. ❌ Closed PR [#54](https://github.com/pranaovs/Qashare/pull/54) in [pranaovs/Qashare](https://github.com/pranaovs/Qashare)
-6. ❌ Closed PR [#52](https://github.com/pranaovs/Qashare/pull/52) in [pranaovs/Qashare](https://github.com/pranaovs/Qashare)
-7. 🗣 Commented on [#52](https://github.com/pranaovs/Qashare/pull/52#issuecomment-3896745134) in [pranaovs/Qashare](https://github.com/pranaovs/Qashare)
-8. 🗣 Commented on [#52](https://github.com/pranaovs/Qashare/pull/52#issuecomment-3896057558) in [pranaovs/Qashare](https://github.com/pranaovs/Qashare)
+1. 🗣 Commented on [#7](https://github.com/pranaovs/headnscale/pull/7#issuecomment-3905902837) in [pranaovs/headnscale](https://github.com/pranaovs/headnscale)
+2. 🗣 Commented on [#5](https://github.com/pranaovs/headnscale/pull/5#issuecomment-3905893285) in [pranaovs/headnscale](https://github.com/pranaovs/headnscale)
+3. 🎉 Merged PR [#58](https://github.com/pranaovs/Qashare/pull/58) in [pranaovs/Qashare](https://github.com/pranaovs/Qashare)
+4. 💪 Opened PR [#58](https://github.com/pranaovs/Qashare/pull/58) in [pranaovs/Qashare](https://github.com/pranaovs/Qashare)
+5. ❌ Closed PR [#57](https://github.com/pranaovs/Qashare/pull/57) in [pranaovs/Qashare](https://github.com/pranaovs/Qashare)
+6. 💪 Opened PR [#57](https://github.com/pranaovs/Qashare/pull/57) in [pranaovs/Qashare](https://github.com/pranaovs/Qashare)
+7. ❌ Closed PR [#54](https://github.com/pranaovs/Qashare/pull/54) in [pranaovs/Qashare](https://github.com/pranaovs/Qashare)
+8. ❌ Closed PR [#52](https://github.com/pranaovs/Qashare/pull/52) in [pranaovs/Qashare](https://github.com/pranaovs/Qashare)
 <!--END_SECTION:activity-->
 
 </details>
