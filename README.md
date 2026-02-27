@@ -215,11 +215,11 @@ View additional statistics in [STATS.md](https://github.com/pranaovs/pranaovs/bl
     </picture>
   </a>
 
-  <a href="mailto:readme.contact@pranaovs.me">
+  <a href="mailto:github.contact@pranaovs.me">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Email-readme.contact@pranaovs.me-orange?labelColor=grey&color=orange&logo=protonmail">
-      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Email-readme.contact@pranaovs.me-orange?labelColor=ffffff&color=orange&logo=protonmail">
-      <img src="https://img.shields.io/badge/Email-readme.contact@pranaovs.me-orange?color=orange&labelColor=ffffff&logo=protonmail" alt="Email - readme.contact@pranaovs.me">
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Email-github.contact@pranaovs.me-orange?labelColor=grey&color=orange&logo=protonmail">
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Email-github.contact@pranaovs.me-orange?labelColor=ffffff&color=orange&logo=protonmail">
+      <img src="https://img.shields.io/badge/Email-github.contact@pranaovs.me-orange?color=orange&labelColor=ffffff&logo=protonmail" alt="Email - github.contact@pranaovs.me">
     </picture>
   </a>
 
