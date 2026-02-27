@@ -37,11 +37,11 @@
   <summary>Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#59](https://github.com/pranaovs/Qashare/pull/59) in [pranaovs/Qashare](https://github.com/pranaovs/Qashare)
-2. 🗣 Commented on [#505](https://github.com/gorilla-devs/ferium/issues/505#issuecomment-3923773489) in [gorilla-devs/ferium](https://github.com/gorilla-devs/ferium)
-3. 🗣 Commented on [#7](https://github.com/pranaovs/headnscale/pull/7#issuecomment-3905902837) in [pranaovs/headnscale](https://github.com/pranaovs/headnscale)
-4. 🗣 Commented on [#5](https://github.com/pranaovs/headnscale/pull/5#issuecomment-3905893285) in [pranaovs/headnscale](https://github.com/pranaovs/headnscale)
-5. 🎉 Merged PR [#58](https://github.com/pranaovs/Qashare/pull/58) in [pranaovs/Qashare](https://github.com/pranaovs/Qashare)
+1. ℹ️ Assigned PR [#59](https://github.com/pranaovs/Qashare/pull/59) in [pranaovs/Qashare](https://github.com/pranaovs/Qashare)
+2. 💪 Opened PR [#59](https://github.com/pranaovs/Qashare/pull/59) in [pranaovs/Qashare](https://github.com/pranaovs/Qashare)
+3. 🗣 Commented on [#505](https://github.com/gorilla-devs/ferium/issues/505#issuecomment-3923773489) in [gorilla-devs/ferium](https://github.com/gorilla-devs/ferium)
+4. 🗣 Commented on [#7](https://github.com/pranaovs/headnscale/pull/7#issuecomment-3905902837) in [pranaovs/headnscale](https://github.com/pranaovs/headnscale)
+5. 🗣 Commented on [#5](https://github.com/pranaovs/headnscale/pull/5#issuecomment-3905893285) in [pranaovs/headnscale](https://github.com/pranaovs/headnscale)
   <!--END_SECTION:activity-->
 
 </details>
