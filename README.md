@@ -37,11 +37,11 @@
   <summary>Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. ℹ️ Assigned PR [#60](https://github.com/pranaovs/Qashare/pull/60) in [pranaovs/Qashare](https://github.com/pranaovs/Qashare)
-2. 🎉 Merged PR [#61](https://github.com/pranaovs/Qashare/pull/61) in [pranaovs/Qashare](https://github.com/pranaovs/Qashare)
-3. 💪 Opened PR [#61](https://github.com/pranaovs/Qashare/pull/61) in [pranaovs/Qashare](https://github.com/pranaovs/Qashare)
-4. ℹ️ Assigned PR [#59](https://github.com/pranaovs/Qashare/pull/59) in [pranaovs/Qashare](https://github.com/pranaovs/Qashare)
-5. 💪 Opened PR [#59](https://github.com/pranaovs/Qashare/pull/59) in [pranaovs/Qashare](https://github.com/pranaovs/Qashare)
+1. 💪 Opened PR [#63](https://github.com/pranaovs/Qashare/pull/63) in [pranaovs/Qashare](https://github.com/pranaovs/Qashare)
+2. ℹ️ Assigned PR [#60](https://github.com/pranaovs/Qashare/pull/60) in [pranaovs/Qashare](https://github.com/pranaovs/Qashare)
+3. 🎉 Merged PR [#61](https://github.com/pranaovs/Qashare/pull/61) in [pranaovs/Qashare](https://github.com/pranaovs/Qashare)
+4. 💪 Opened PR [#61](https://github.com/pranaovs/Qashare/pull/61) in [pranaovs/Qashare](https://github.com/pranaovs/Qashare)
+5. ℹ️ Assigned PR [#59](https://github.com/pranaovs/Qashare/pull/59) in [pranaovs/Qashare](https://github.com/pranaovs/Qashare)
   <!--END_SECTION:activity-->
 
 </details>
