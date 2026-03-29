@@ -70,13 +70,13 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#69](https://github.com/pranaovs/Qashare/pull/69#issuecomment-4131648769) in [pranaovs/Qashare](https://github.com/pranaovs/Qashare)
-2. ❌ Closed PR [#71](https://github.com/pranaovs/Qashare/pull/71) in [pranaovs/Qashare](https://github.com/pranaovs/Qashare)
-3. 💪 Opened PR [#71](https://github.com/pranaovs/Qashare/pull/71) in [pranaovs/Qashare](https://github.com/pranaovs/Qashare)
-4. 💪 Opened PR [#70](https://github.com/pranaovs/Qashare/pull/70) in [pranaovs/Qashare](https://github.com/pranaovs/Qashare)
-5. ❌ Closed PR [#67](https://github.com/pranaovs/Qashare/pull/67) in [pranaovs/Qashare](https://github.com/pranaovs/Qashare)
-6. 🗣 Commented on [#66](https://github.com/pranaovs/Qashare/pull/66#issuecomment-4031778208) in [pranaovs/Qashare](https://github.com/pranaovs/Qashare)
-7. 🗣 Commented on [#66](https://github.com/pranaovs/Qashare/pull/66#issuecomment-4031626495) in [pranaovs/Qashare](https://github.com/pranaovs/Qashare)
-8. 🗣 Commented on [#66](https://github.com/pranaovs/Qashare/pull/66#issuecomment-4031625449) in [pranaovs/Qashare](https://github.com/pranaovs/Qashare)
+2. ❗ Opened issue [#7](https://github.com/sasvat007/CAPITALSENSE/issues/7) in [sasvat007/CAPITALSENSE](https://github.com/sasvat007/CAPITALSENSE)
+3. ❌ Closed PR [#71](https://github.com/pranaovs/Qashare/pull/71) in [pranaovs/Qashare](https://github.com/pranaovs/Qashare)
+4. 💪 Opened PR [#71](https://github.com/pranaovs/Qashare/pull/71) in [pranaovs/Qashare](https://github.com/pranaovs/Qashare)
+5. 💪 Opened PR [#70](https://github.com/pranaovs/Qashare/pull/70) in [pranaovs/Qashare](https://github.com/pranaovs/Qashare)
+6. ❌ Closed PR [#67](https://github.com/pranaovs/Qashare/pull/67) in [pranaovs/Qashare](https://github.com/pranaovs/Qashare)
+7. 🗣 Commented on [#66](https://github.com/pranaovs/Qashare/pull/66#issuecomment-4031778208) in [pranaovs/Qashare](https://github.com/pranaovs/Qashare)
+8. 🗣 Commented on [#66](https://github.com/pranaovs/Qashare/pull/66#issuecomment-4031626495) in [pranaovs/Qashare](https://github.com/pranaovs/Qashare)
 <!--END_SECTION:activity-->
 
 </details>
