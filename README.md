@@ -37,11 +37,11 @@
   <summary>Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. ❌ Closed PR [#70](https://github.com/pranaovs/Qashare/pull/70) in [pranaovs/Qashare](https://github.com/pranaovs/Qashare)
-2. 🗣 Commented on [#69](https://github.com/pranaovs/Qashare/pull/69#issuecomment-4131648769) in [pranaovs/Qashare](https://github.com/pranaovs/Qashare)
-3. ❗ Opened issue [#7](https://github.com/sasvat007/CAPITALSENSE/issues/7) in [sasvat007/CAPITALSENSE](https://github.com/sasvat007/CAPITALSENSE)
-4. ❌ Closed PR [#71](https://github.com/pranaovs/Qashare/pull/71) in [pranaovs/Qashare](https://github.com/pranaovs/Qashare)
-5. 💪 Opened PR [#71](https://github.com/pranaovs/Qashare/pull/71) in [pranaovs/Qashare](https://github.com/pranaovs/Qashare)
+1. ❌ Closed PR [#73](https://github.com/pranaovs/Qashare/pull/73) in [pranaovs/Qashare](https://github.com/pranaovs/Qashare)
+2. ❌ Closed PR [#70](https://github.com/pranaovs/Qashare/pull/70) in [pranaovs/Qashare](https://github.com/pranaovs/Qashare)
+3. 🗣 Commented on [#69](https://github.com/pranaovs/Qashare/pull/69#issuecomment-4131648769) in [pranaovs/Qashare](https://github.com/pranaovs/Qashare)
+4. ❗ Opened issue [#7](https://github.com/sasvat007/CAPITALSENSE/issues/7) in [sasvat007/CAPITALSENSE](https://github.com/sasvat007/CAPITALSENSE)
+5. ❌ Closed PR [#71](https://github.com/pranaovs/Qashare/pull/71) in [pranaovs/Qashare](https://github.com/pranaovs/Qashare)
   <!--END_SECTION:activity-->
 
 </details>
