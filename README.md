@@ -37,11 +37,11 @@
   <summary>Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. ❌ Closed PR [#14](https://github.com/pranaovs/headnscale/pull/14) in [pranaovs/headnscale](https://github.com/pranaovs/headnscale)
-2. ❌ Closed PR [#8](https://github.com/pranaovs/headnscale/pull/8) in [pranaovs/headnscale](https://github.com/pranaovs/headnscale)
-3. ❌ Closed PR [#11](https://github.com/pranaovs/headnscale/pull/11) in [pranaovs/headnscale](https://github.com/pranaovs/headnscale)
-4. ❌ Closed PR [#9](https://github.com/pranaovs/headnscale/pull/9) in [pranaovs/headnscale](https://github.com/pranaovs/headnscale)
-5. ❌ Closed PR [#70](https://github.com/pranaovs/Qashare/pull/70) in [pranaovs/Qashare](https://github.com/pranaovs/Qashare)
+1. ❌ Closed PR [#15](https://github.com/pranaovs/headnscale/pull/15) in [pranaovs/headnscale](https://github.com/pranaovs/headnscale)
+2. ❌ Closed PR [#14](https://github.com/pranaovs/headnscale/pull/14) in [pranaovs/headnscale](https://github.com/pranaovs/headnscale)
+3. ❌ Closed PR [#8](https://github.com/pranaovs/headnscale/pull/8) in [pranaovs/headnscale](https://github.com/pranaovs/headnscale)
+4. ❌ Closed PR [#11](https://github.com/pranaovs/headnscale/pull/11) in [pranaovs/headnscale](https://github.com/pranaovs/headnscale)
+5. ❌ Closed PR [#9](https://github.com/pranaovs/headnscale/pull/9) in [pranaovs/headnscale](https://github.com/pranaovs/headnscale)
   <!--END_SECTION:activity-->
 
 </details>
