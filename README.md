@@ -37,11 +37,11 @@
   <summary>Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#102](https://github.com/Diniboy1123/usque/pull/102) in [Diniboy1123/usque](https://github.com/Diniboy1123/usque)
-2. 🗣 Commented on [#102](https://github.com/Diniboy1123/usque/pull/102#issuecomment-4582448268) in [Diniboy1123/usque](https://github.com/Diniboy1123/usque)
-3. 🗣 Commented on [#102](https://github.com/Diniboy1123/usque/pull/102#issuecomment-4582446307) in [Diniboy1123/usque](https://github.com/Diniboy1123/usque)
-4. 💪 Opened PR [#102](https://github.com/Diniboy1123/usque/pull/102) in [Diniboy1123/usque](https://github.com/Diniboy1123/usque)
-5. ❌ Closed PR [#9](https://github.com/pranaovs/headnscale/pull/9) in [pranaovs/headnscale](https://github.com/pranaovs/headnscale)
+1. ❌ Closed PR [#75](https://github.com/pranaovs/Qashare/pull/75) in [pranaovs/Qashare](https://github.com/pranaovs/Qashare)
+2. 🎉 Merged PR [#102](https://github.com/Diniboy1123/usque/pull/102) in [Diniboy1123/usque](https://github.com/Diniboy1123/usque)
+3. 🗣 Commented on [#102](https://github.com/Diniboy1123/usque/pull/102#issuecomment-4582448268) in [Diniboy1123/usque](https://github.com/Diniboy1123/usque)
+4. 🗣 Commented on [#102](https://github.com/Diniboy1123/usque/pull/102#issuecomment-4582446307) in [Diniboy1123/usque](https://github.com/Diniboy1123/usque)
+5. 💪 Opened PR [#102](https://github.com/Diniboy1123/usque/pull/102) in [Diniboy1123/usque](https://github.com/Diniboy1123/usque)
   <!--END_SECTION:activity-->
 
 </details>
