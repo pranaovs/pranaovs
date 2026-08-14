@@ -69,7 +69,7 @@
   <summary>View Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#78](https://github.com/pranaovs/Qashare/pull/78) in [pranaovs/Qashare](https://github.com/pranaovs/Qashare)
+1. ❌ Closed PR [#79](https://github.com/pranaovs/Qashare/pull/79) in [pranaovs/Qashare](https://github.com/pranaovs/Qashare)
 2. 🗣 Commented on [#29](https://github.com/kushvinth/dotfiles/pull/29#issuecomment-4660652928) in [kushvinth/dotfiles](https://github.com/kushvinth/dotfiles)
 3. ❌ Closed PR [#76](https://github.com/pranaovs/Qashare/pull/76) in [pranaovs/Qashare](https://github.com/pranaovs/Qashare)
 4. ❌ Closed PR [#75](https://github.com/pranaovs/Qashare/pull/75) in [pranaovs/Qashare](https://github.com/pranaovs/Qashare)
