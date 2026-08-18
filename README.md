@@ -1,3 +1,11 @@
+# MIGRATED TO CODEBERG: <https://codeberg.org/pranaovs>
+
+GitHub is a read only mirror.
+
+> Eagerly await for a blog post about it at <https://blog.pranaovs.me>
+
+---
+
 ## Hello 👋, I am [Pranaov S](https://github.com/pranaovs)
 
 <p>
@@ -37,12 +45,13 @@
   <summary>Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
+
 1. ❌ Closed PR [#79](https://github.com/pranaovs/Qashare/pull/79) in [pranaovs/Qashare](https://github.com/pranaovs/Qashare)
 2. 🗣 Commented on [#29](https://github.com/kushvinth/dotfiles/pull/29#issuecomment-4660652928) in [kushvinth/dotfiles](https://github.com/kushvinth/dotfiles)
 3. ❌ Closed PR [#76](https://github.com/pranaovs/Qashare/pull/76) in [pranaovs/Qashare](https://github.com/pranaovs/Qashare)
 4. ❌ Closed PR [#75](https://github.com/pranaovs/Qashare/pull/75) in [pranaovs/Qashare](https://github.com/pranaovs/Qashare)
 5. 🎉 Merged PR [#102](https://github.com/Diniboy1123/usque/pull/102) in [Diniboy1123/usque](https://github.com/Diniboy1123/usque)
-  <!--END_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 </details>
 
