@@ -69,8 +69,8 @@
   <summary>View Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#81](https://github.com/pranaovs/Qashare/pull/81) in [pranaovs/Qashare](https://github.com/pranaovs/Qashare)
-2. ❌ Closed PR [#80](https://github.com/pranaovs/Qashare/pull/80) in [pranaovs/Qashare](https://github.com/pranaovs/Qashare)
+1. ❌ Closed PR [#82](https://github.com/pranaovs/Qashare/pull/82) in [pranaovs/Qashare](https://github.com/pranaovs/Qashare)
+2. ❌ Closed PR [#81](https://github.com/pranaovs/Qashare/pull/81) in [pranaovs/Qashare](https://github.com/pranaovs/Qashare)
 3. ❌ Closed PR [#76](https://github.com/pranaovs/Qashare/pull/76) in [pranaovs/Qashare](https://github.com/pranaovs/Qashare)
 4. ❌ Closed PR [#75](https://github.com/pranaovs/Qashare/pull/75) in [pranaovs/Qashare](https://github.com/pranaovs/Qashare)
 5. 🎉 Merged PR [#102](https://github.com/Diniboy1123/usque/pull/102) in [Diniboy1123/usque](https://github.com/Diniboy1123/usque)
