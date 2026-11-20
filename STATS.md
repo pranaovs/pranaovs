@@ -69,7 +69,7 @@
   <summary>View Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/sstark/nerdshade/issues/5#issuecomment-6273573841) in [sstark/nerdshade](https://github.com/sstark/nerdshade)
+1. ❌ Closed PR [#16](https://github.com/pranaovs/headnscale/pull/16) in [pranaovs/headnscale](https://github.com/pranaovs/headnscale)
 2. ❌ Closed PR [#82](https://github.com/pranaovs/Qashare/pull/82) in [pranaovs/Qashare](https://github.com/pranaovs/Qashare)
 3. ❌ Closed PR [#81](https://github.com/pranaovs/Qashare/pull/81) in [pranaovs/Qashare](https://github.com/pranaovs/Qashare)
 4. ❌ Closed PR [#75](https://github.com/pranaovs/Qashare/pull/75) in [pranaovs/Qashare](https://github.com/pranaovs/Qashare)
